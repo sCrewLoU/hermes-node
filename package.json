@@ -10,7 +10,7 @@
   "author": "Andrew A. Barber",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.21.1"
+    "axios": "^0.30.2"
   },
   "devDependencies": {
     "axios-mock-adapter": "^1.17.0",
